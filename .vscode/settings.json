@@ -1,5 +1,10 @@
 {
     "cSpell.words": [
-        "frontends"
+        "brokerless",
+        "contravariance",
+        "Fanout",
+        "frontends",
+        "HATEOAS",
+        "Idempotence"
     ]
 }
