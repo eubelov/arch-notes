@@ -5,6 +5,7 @@
         "Fanout",
         "frontends",
         "HATEOAS",
-        "Idempotence"
+        "Idempotence",
+        "Sharded"
     ]
 }
