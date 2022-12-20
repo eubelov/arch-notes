@@ -6,6 +6,7 @@
         "frontends",
         "HATEOAS",
         "Idempotence",
+        "masterless",
         "Sharded"
     ]
 }
